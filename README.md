@@ -1,7 +1,7 @@
 # Manual-Testing_gadstyle.com
 This project demonstrates manual testing of "gadstyle.com, " including Testplan, mindmap, TestScenarios, test cases, Test Summary Report, bug report, and test matrices.
 ### **Features**
--Test Plan:
+   - Test Plan:
 A high-level document outlining the testing process's scope, objectives, resources, and schedule.
 
 -Mind Map: 
