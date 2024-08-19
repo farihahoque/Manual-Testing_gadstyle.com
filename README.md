@@ -16,10 +16,10 @@ Specific, step-by-step instructions for testing each scenario, including expecte
  - Test Summary Report:
 A comprehensive document summarizing the testing process, including the number of test cases executed, passed, and failed tests, along with any identified bugs.
 
-   - Bug Report
+- Bug Report
 A bug report is a formal document or entry used to communicate a problem or issue encountered during the testing or use of software, websites, or applications. A well-written bug report helps to clarify the problem and its impact on the system.
 
-   - Test Matrices
+ - Test Matrices
 A test matrix is a tool used to organize and track the testing process. Also, it helps ensure that all aspects of the system are tested thoroughly, and it aids in understanding what has been tested and what remains untested.
 
 ## Link of the project:
