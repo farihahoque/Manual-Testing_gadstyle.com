@@ -1,6 +1,8 @@
 # Manual-Testing_gadstyle.com
 This project demonstrates manual "gadstyle.com" testing, including Testplan, mindmap, TestScenarios, test cases, Test Summary Report, bug report, and test matrices.
+
 ### **Features**
+
    - Test Plan:
 A high-level document outlining the testing process's scope, objectives, resources, and schedule.
 
@@ -23,9 +25,11 @@ A bug report is a formal document or entry used to communicate a problem or issu
 A test matrix is a tool used to organize and track the testing process. Also, it helps ensure that all aspects of the system are tested thoroughly, and it aids in understanding what has been tested and what remains untested.
 
 ## Link of the project:
+
  - https://docs.google.com/spreadsheets/d/1Xrii4za0Jzcxdf5Zw8ckmE5qsy-QVbwdJtbA_5WAwMk/edit?usp=sharing
 
 ## Test Cases for Gadstyle.com
+
  ## _**Test Plan**_
 ![image](https://github.com/user-attachments/assets/2594a0ac-efab-4449-997c-06ef8474919b)
 
