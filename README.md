@@ -34,17 +34,24 @@ Here mindmap is done with xmind software.
 
 ![image](https://github.com/user-attachments/assets/25e716cd-40c2-46c3-be4a-bb5d886f50b5)
 
- - Test Scenarios
+ ## _**Test Scenarios**_
+ 
   ![image](https://github.com/user-attachments/assets/09b97061-9c2e-49fa-9af7-7a9331a940cd)
 
-  - Test Cases
+ ## _**Test Cases**_
+
   ![image](https://github.com/user-attachments/assets/721796e6-193e-48f0-bd15-6f602873a510)
-  - Test Summary Report
+
+   ## _**Test Summary Report**_
+
 ![image](https://github.com/user-attachments/assets/0601602b-509f-411a-97a0-0be8df2b1295)
+
+## _**Bug Report**_
 -Bug Report
 ![image](https://github.com/user-attachments/assets/7a913f4f-9a6f-400a-a55a-3101bb0fa6d3)
 
- -Test Matrices
+## _**Test Matrices**_
+
 ![image](https://github.com/user-attachments/assets/0b17cd2d-f60c-463d-badd-a4e08388f2c7)
 
 
