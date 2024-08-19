@@ -51,7 +51,7 @@ Here mindmap is done with xmind software.
 ![image](https://github.com/user-attachments/assets/0601602b-509f-411a-97a0-0be8df2b1295)
 
 ## _**Bug Report**_
--Bug Report
+
 ![image](https://github.com/user-attachments/assets/7a913f4f-9a6f-400a-a55a-3101bb0fa6d3)
 
 ## _**Test Matrices**_
