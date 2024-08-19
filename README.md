@@ -26,7 +26,7 @@ A test matrix is a tool used to organize and track the testing process. Also, it
  - https://docs.google.com/spreadsheets/d/1Xrii4za0Jzcxdf5Zw8ckmE5qsy-QVbwdJtbA_5WAwMk/edit?usp=sharing
 
 ## Test Cases for Gadstyle.com
- - Test Plan
+ ## _**Test Plan**_
 ![image](https://github.com/user-attachments/assets/2594a0ac-efab-4449-997c-06ef8474919b)
  - Mind Map
 Here mindmap is done with xmind software.
