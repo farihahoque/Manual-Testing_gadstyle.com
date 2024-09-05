@@ -1,5 +1,5 @@
 # Manual-Testing_gadstyle.com
-This project demonstrates manual "gadstyle.com" testing, including Testplan, mindmap, TestScenarios, test cases, Test Summary Report, bug report, and test matrices.
+This project demonstrates "gadstyle.com" manual testing, including Testplan, mindmap, TestScenarios, test cases, Test Summary Report, bug report, and test matrices.
 
 ### Features
 
